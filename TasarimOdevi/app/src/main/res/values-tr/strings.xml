@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Skyscanner</string>
+    <string name="baslik_adi">İspanya için Keşif Zamanı</string>
+    <string name="buton1">GİDİŞ-DÖNÜŞ</string>
+    <string name="buton2">TEK YÖN</string>
+    <string name="nereden">İstanbul</string>
+    <string name="nereye">İspanya</string>
+    <string name="seyahat_tarihi">Seyahat Tarihleri: 10 Eki - 17 Eki</string>
+    <string name="sehir1">Barselona</string>
+    <string name="sehir2">Granada</string>
+    <string name="fiyat1">5860 TL</string>
+    <string name="fiyat2">4890 TL</string>
+    <string name="satinal">Satın Al</string>
+    <string name="kesfet">Keşfet</string>
+    <string name="geziler">Seyahatler</string>
+    <string name="profile">Profil</string>
+
+</resources>

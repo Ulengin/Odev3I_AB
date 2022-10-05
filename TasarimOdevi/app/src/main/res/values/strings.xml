@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Skyscanner</string>
+    <string name="baslik_adi">Explore Spain</string>
+    <string name="buton1">ROUNTRIP</string>
+    <string name="buton2">ONE-WAY</string>
+    <string name="nereden">Istanbul</string>
+    <string name="nereye">Spain</string>
+    <string name="seyahat_tarihi">Dates of Travel: Oct 10 - Oct 17</string>
+    <string name="sehir1">Barcelona</string>
+    <string name="sehir2">Granada</string>
+    <string name="fiyat1">293 Euro</string>
+    <string name="fiyat2">244,5 Euro</string>
+    <string name="satinal">Buy Now</string>
+    <string name="kesfet">Explore</string>
+    <string name="geziler">Trips</string>
+    <string name="profile">Profile</string>
+
+</resources>
